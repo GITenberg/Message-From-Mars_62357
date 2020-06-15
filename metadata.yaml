@@ -1,0 +1,37 @@
+_repo: Message-From-Mars_62357
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Simak, Clifford D.
+    alias: Simak, Clifford Donald
+    birthdate: 1904
+    deathdate: 1988
+    gutenberg_agent_id: '25185'
+    url: http://www.gutenberg.org/2009/agents/25185
+    wikipedia: http://en.wikipedia.org/wiki/Clifford_D._Simak
+description: ''
+gutenberg_issued: '2020-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Martians -- Fiction'
+- GITenberg
+title: Message From Mars
+url: http://www.gutenberg.org/ebooks/62357
